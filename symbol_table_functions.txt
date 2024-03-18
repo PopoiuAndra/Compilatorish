@@ -1,0 +1,3 @@
+Nume: fct | Tip: float | Parametrii: | Locatie: car 
+Nume: f | Tip: void | Parametrii: | Locatie: global 
+Nume: F | Tip: float | Parametrii: 1:int 2:int 3:float | Locatie: global 

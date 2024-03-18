@@ -1,0 +1,21 @@
+Nume: c1 | Tip: int | Valoare: 0 | Locatie: car 
+Nume: c2 | Tip: int | Valoare: 0 | Locatie: car 
+Nume: c3 | Tip: int | Valoare: 0 | Locatie: fct 
+Nume: C | Tip: char | Valoare: g | Locatie: global 
+Nume: nr | Tip: CONST bool | Valoare: true | Locatie: global 
+Nume: a | Tip: int | Valoare: -49 | Locatie: global 
+Nume: B | Tip: bool | Valoare: false | Locatie: global 
+Nume: c | Tip: char | Valoare: c | Locatie: global 
+Nume: x | Tip: CONST int | Valoare: 7 | Locatie: global 
+Nume: y | Tip: float | Valoare: 7.000000 | Locatie: global 
+Nume: u | Tip: float | Valoare: 2.500000 | Locatie: global 
+Nume: z | Tip: clasuta | Locatie: car 
+Nume: A | Tip: int | Valoare: 0 | Locatie: f 
+Nume: r | Tip: int | Valoare: 0 | Locatie: F 
+Nume: t | Tip: int | Valoare: 0 | Locatie: F 
+Nume: m | Tip: float | Valoare: 0.000000 | Locatie: F 
+Nume: ma | Tip: float | Valoare: 0.000000 | Locatie: main 
+Nume: w | Tip: int | Valoare: 0 | Locatie: main 
+Nume: sir | Tip: Array char | Valoare: 0:0 1:0 2:0 3:0 | Locatie: global 
+Nume: b | Tip: Array int | Valoare: 0:0 1:3 2:7 3:0 | Locatie: global 
+Nume: s | Tip: Array string | Valoare: 0:t 1:0 2:0 | Locatie: global 
